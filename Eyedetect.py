@@ -1,7 +1,6 @@
 import cv2
 import dlib
 from scipy.spatial import distance
-from playsound import playsound
 
 
 def calculate_EAR(eye):
